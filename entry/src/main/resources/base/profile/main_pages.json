@@ -1,0 +1,6 @@
+{
+  "src": [
+    "pages/TicketPage",
+    "pages/SelectPassengerPage"
+  ]
+}
